@@ -1,0 +1,20 @@
+{
+  "name": "chinese-poetry",
+  "version": "1.0.0",
+  "description": "extract phrases from json to newline separated plain text",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahis39/chinese-poetry.git"
+  },
+  "author": "dahis39",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahis39/chinese-poetry/issues"
+  },
+  "homepage": "https://github.com/dahis39/chinese-poetry#readme"
+}
