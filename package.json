@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dahis39/chinese-poetry/issues"
   },
-  "homepage": "https://github.com/dahis39/chinese-poetry#readme"
+  "homepage": "https://github.com/dahis39/chinese-poetry#readme",
+  "dependencies": {
+    "findit": "^2.0.0"
+  }
 }
